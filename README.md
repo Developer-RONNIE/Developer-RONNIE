@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack Projects**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN** **JavaScript**
 
 - 📫 How to reach me **ronnieworkspace@gmail.com**
 
