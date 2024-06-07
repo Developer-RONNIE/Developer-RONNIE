@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="https://1.bp.blogspot.com/-7A4WynwLsM" alt="MasterHead">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dvYTU3MGl5b2R3bnI4eGFsc2w1ajJ3ZDIyeHV2bmszbGs1NmV4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="MasterHead">
 </a>
 
 <h1 align="center">Hi 👋, I'm Alapan Banerjee</h1>
