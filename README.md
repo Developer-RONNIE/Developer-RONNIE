@@ -1,11 +1,11 @@
 <a href="">
-    <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1080px; height: 250px; ;">
+    <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1080px; height: 120px; ;">
 </a>
 
 
 <h1 align="center">Hi 👋, I'm Alapan Banerjee</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhzcWEyOWZxd3pheHU3cHB5eHkxcHl5emJwNDB1a2dvNWN2bXpxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://shorturl.at/khm2a">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-ronnie&label=Profile%20views&color=0e75b6&style=flat" alt="developer-ronnie" /> </p>
 
