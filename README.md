@@ -1,5 +1,5 @@
 <a href="">
-    <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 100%; height: auto;">
+    <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1584px; height:396px; ;">
 </a>
 
 
