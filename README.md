@@ -42,3 +42,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-ronnie&show_icons=true&locale=en" alt="developer-ronnie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-ronnie&show_icons=true&locale=en&bg_color=0D1117" alt="developer-ronnie" /></p>
