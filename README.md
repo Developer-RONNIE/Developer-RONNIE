@@ -37,4 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-ronnie&show_icons=true&locale=en" alt="developer-ronnie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-ronnie&background=0D1117&ring=5A8FEE&fire=5A8FEE&currStreakLabel=5A8FEE&sideNums=5A8FEE&sideLabels=5A8FEE&dates=5A8FEE" alt="developer-ronnie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-ronnie&" alt="developer-ronnie" /></p>
+
