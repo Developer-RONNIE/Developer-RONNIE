@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Encryptions, DevOps**
 
-- 👯 I’m looking to collaborate on **Android / MERN stack/ Java full stack Projects**
+- 🤝 I’m looking to collaborate on **Android / MERN stack/ Java full stack Projects**
 
 - 💬 Ask me about **MERN** **JavaScript** **Java**
 
