@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronnie002_" target="blank"><img src="https://img.shields.io/twitter/follow/ronnie002_?logo=twitter&style=for-the-badge" alt="ronnie002_" /></a> </p>
 
-- 🔭 I’m currently working on **AI Saas Platform**
+- 🔭 I’m currently working on **Cypress - Saas collaboration Platform**
 
 - 🌱 I’m currently learning **Encryptions, DevOps**
 
