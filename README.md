@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
 </div>
 
-<div id="trophy" align="center">
+<div id="trophy" align="left">
     <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
 </div>
 
