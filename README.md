@@ -34,32 +34,17 @@ In my spare time, you'll find me contributing to open source projects, honing my
 
 ---
 
-### Tech Stack
+### My Tech Stack; 
+<div>
+### Languages:
+| Python3 | C | JS | Solidity | GO |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
 
-#### Database
-- PostgreSQL
-- MySQL
-- SQLite
 
-#### Languages
-- Python
-- JavaScript (Node.js)
-- Solidity
-- Go
-- C
 
-#### Backend Development
-- Node.js
-- Express.js
-- Flask
-- Django
 
-#### Frontend Development
-- React.js
-- Vue.js
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+
 
 
 ----
@@ -69,6 +54,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 
 
 ---
