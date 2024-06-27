@@ -7,9 +7,15 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/khm2a">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-ronnie&label=Profile%20views&color=0e75b6&style=flat" alt="developer-ronnie" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/ronnie002_" target="blank"><img src="https://img.shields.io/twitter/follow/ronnie002_?logo=twitter&style=for-the-badge" alt="ronnie002_" /></a> </p>
+### About Me:    
+I'm a senior fullstack developer with experience in MERN (MongoDB, Express.js, React, Node.js) and Java full stack. I've been building full stack web projects and working with the latest trending technologies in full stack development. I'm always looking for opportunities to contribute to open source projects and collaborate with other enthusiasts in the community.
+
+---
+
+
+
 
 - 🔭 I’m currently working on **Cypress - Saas collaboration Platform**
 
