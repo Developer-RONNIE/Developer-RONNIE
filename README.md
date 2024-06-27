@@ -67,7 +67,8 @@ In my spare time, you'll find me contributing to open source projects, honing my
 ### Devops:
 | AWS | Docker | Jenkins | GCP | Kubernetes |
 |-----|--------|---------|-----|------------|
-| <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-83E93CFFB4-seeklogo.com.png" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/dev
+| <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-83E93CFFB4-seeklogo.com.png" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
+
 
 ### Static Site Generators & Backend as a Service(BaaS):
 
