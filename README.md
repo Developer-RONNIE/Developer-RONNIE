@@ -99,6 +99,11 @@ In my spare time, you'll find me contributing to open source projects, honing my
 </p>
 
 
+---
+
+<p align="center">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 
 
