@@ -6,8 +6,11 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
+  </a>
 </div>
+
 
 
 ### About Me:    
