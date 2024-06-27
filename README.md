@@ -5,9 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Alapan Banerjee</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/khm2a">
-
----
 
 ### About Me:    
 I'm a senior fullstack developer with experience in MERN (MongoDB, Express.js, React, Node.js) and Java full stack. I've been building full stack web projects and working with the latest trending technologies in full stack development. I'm always looking for opportunities to contribute to open source projects and collaborate with other enthusiasts in the community.
