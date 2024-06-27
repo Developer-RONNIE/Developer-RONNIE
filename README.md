@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
 </div>
 
-<p align="center">
-    <img align="center" style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
-</p>
+<div id="trophy" align="center">
+    <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
+</div>
 
 
 ### About Me:    
