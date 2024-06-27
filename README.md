@@ -14,7 +14,7 @@
 </div>
 
 
-### About Me:    
+### About Me: (Portfolio)[https://beeown.com/]
 I'm a dedicated fullstack developer with expertise in the MERN and Java full stack ecosystems. I have industry experience as I was an employee in the gaming industry for 2 years before switching to fullstack web development.
 
 Currently, I'm diving deep into the exciting world of serverless architecture, microservices, and cloud-native applications.  I'm also actively engaged in building projects with Next.js, exploring its powerful features for server-side rendering and static site generation. I'm also proficient in related technologies like Vercel, Tailwind CSS, and Prisma/Convex. 
