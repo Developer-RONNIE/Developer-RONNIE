@@ -83,7 +83,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 
 ### GitHub Stats: 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Developer-RONNIE&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
