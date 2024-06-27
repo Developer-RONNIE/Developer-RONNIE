@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alapan Banerjee</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
 </div>
 
