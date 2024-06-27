@@ -5,7 +5,10 @@
 <h1 align="center">Hi 👋, I'm Alapan Banerjee</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 
 ### About Me:    
 I'm a dedicated fullstack developer with expertise in the MERN and Java full stack ecosystems. I have industry experience as I was an employee in the gaming industry for 2 years before switching to fullstack web development.
