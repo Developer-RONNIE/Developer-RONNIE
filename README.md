@@ -34,8 +34,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 
 ---
 
-## My Tech Stack:
-- These are the tools I have worked with in my developer carieer till date 
+## My Tech Stack: 
 <div>
     
 ### Programming Languages:
