@@ -9,7 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="600" height="200" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
+  </a>
+</p>
+
 
 ### About Me:    
 I'm a dedicated fullstack developer with expertise in the MERN and Java full stack ecosystems. I have industry experience as I was an employee in the gaming industry for 2 years before switching to fullstack web development.
