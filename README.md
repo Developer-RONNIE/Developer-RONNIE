@@ -7,7 +7,7 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/khm2a">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-ronnie&label=Profile%20views&color=0e75b6&style=flat" alt="developer-ronnie" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-ronnie&label=Profile%20views&color=0e75b6&style=flat" alt="developer-ronnie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ronnie002_" target="blank"><img src="https://img.shields.io/twitter/follow/ronnie002_?logo=twitter&style=for-the-badge" alt="ronnie002_" /></a> </p>
 
