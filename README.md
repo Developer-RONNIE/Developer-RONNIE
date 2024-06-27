@@ -34,8 +34,9 @@ In my spare time, you'll find me contributing to open source projects, honing my
 
 ---
 
-### My Tech Stack; 
+## My Tech Stack; 
 <div>
+    
 ### Languages:
 | Python3 | C | JS | Solidity | GO |
 |----------|----------|----------|-----|-----|
@@ -43,7 +44,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 
 
 
-
+</div>
 
 
 
