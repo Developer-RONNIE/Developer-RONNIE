@@ -52,12 +52,10 @@ In my spare time, you'll find me contributing to open source projects, honing my
 |---------|--------|-------|--------|-------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="55" height="55"/> |
 
-
 ### Mobile App Development:
 | Flutter | Kotlin | React Native |
 |---------|--------|--------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> |
-
 
 ### Database:
 | MongoDB | MySQL | PostgreSQL | Redis | Prisma | MariaDB |
@@ -69,14 +67,15 @@ In my spare time, you'll find me contributing to open source projects, honing my
 |-----|--------|---------|-----|------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
 
-
 ### Static Site Generators & Backend as a Service(BaaS):
-
+| Next.js | Gatsby | AppWrite | Firebase |
+|---------|--------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="AppWrite" alt="AppWrite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/> |
 
 ### Other tools: 
-
-
-
+| Git | VS Code | IntelliJ | Postman | Figma | Blender | Notion |
+|-----|---------|----------|---------|-------|---------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="55" height="55"/> |
 
 
 </div>
@@ -86,7 +85,6 @@ In my spare time, you'll find me contributing to open source projects, honing my
 ----
 
 
-### GitHub Stats: 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Developer-RONNIE&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
