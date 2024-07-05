@@ -109,7 +109,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 ---
 
 
-&nbsp;![](https://komarev.com/ghpvc/?username=Developer-RONNIE&color=brightgreen)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-RONNIE&show_icons=true&locale=en" alt="Developer-RONNIE" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
