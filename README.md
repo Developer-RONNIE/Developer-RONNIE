@@ -111,7 +111,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 
 
 <p>&nbsp;<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=Developer-RONNIE&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Developer-RONNIE" />
-<img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
+<img height="160" width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 
