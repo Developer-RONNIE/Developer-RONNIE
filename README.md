@@ -6,12 +6,12 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 
-<p align="center">
+<p align="left">
     <a id="header" align="left">
         <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
     </a>
-	<a href="https://github.com/Developer-RONNIE" alt="Github" title="github">
-       <img src="https://img.shields.io/badge/Follow_Me_For_More_Useful_Repos-15k?style=for-the-badge&color=EF2D5E&logo=github&logoColor=fff"/>
+	<a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/List-of-Top-Unicorn-Startups-India🚀-15k?style=for-the-badge&color=0a66c2&logo=github&logoColor=fff"/>
     </a>
 </p>
 
