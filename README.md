@@ -10,10 +10,11 @@
     <a id="header" align="left">
         <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
     </a>
-	<a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India" alt="Github" title="github">
-       <img src="https://img.shields.io/badge/List-of-Top-Unicorn-Startups-India🚀&style=for-the-badge&color=0a66c2&logo=github&logoColor=fff"/>
+    <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/List--of--Top--Unicorn--Startups--India-0a66c2?style=for-the-badge&logo=github&logoColor=fff" alt="Github"/>
     </a>
 </p>
+
 
 <div id="trophy" align="left">
     <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
