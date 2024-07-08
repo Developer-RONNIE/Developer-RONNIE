@@ -11,7 +11,7 @@
         <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
     </a>
 	<a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India" alt="Github" title="github">
-       <img src="https://img.shields.io/badge/List-of-Top-Unicorn-Startups-India🚀-15k?style=for-the-badge&color=0a66c2&logo=github&logoColor=fff"/>
+       <img src="https://img.shields.io/badge/List-of-Top-Unicorn-Startups-India🚀&style=for-the-badge&color=0a66c2&logo=github&logoColor=fff"/>
     </a>
 </p>
 
