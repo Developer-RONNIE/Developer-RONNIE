@@ -5,9 +5,15 @@
 <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan Banerjee </h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
-</div>
+
+<p align="center">
+    <a id="header" align="left">
+        <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
+    </a>
+	<a href="https://github.com/Developer-RONNIE" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/Follow_Me_For_More_Useful_Repos-15k?style=for-the-badge&color=EF2D5E&logo=github&logoColor=fff"/>
+    </a>
+</p>
 
 <div id="trophy" align="left">
     <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy">
