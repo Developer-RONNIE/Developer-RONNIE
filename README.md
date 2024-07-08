@@ -2,7 +2,7 @@
     <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1080px; height: 180px;">
 </a>
 
-<h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan ( You can Call me Ronnie ) </h1>
+<h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan Banerjee </h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <div id="header" align="left">
