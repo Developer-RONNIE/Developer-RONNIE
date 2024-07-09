@@ -19,9 +19,9 @@
     
 </p>
 
-
-<img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"  align="center" alt="trophy">
-
+<div id="trophy" align="center">
+    <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"  align="center" alt="trophy">
+</div>
 
 
 ### About Me: 
