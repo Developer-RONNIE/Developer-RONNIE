@@ -19,7 +19,7 @@
     
 </p>
 
-<div id="trophy" align="center">
+<div id="trophy" align="left">
     <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"  align="center" alt="trophy">
 </div>
 
