@@ -108,17 +108,7 @@ In my spare time, you'll find me contributing to open source projects, honing my
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
---- 
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Developer-RONNIE&theme=highcontrast&hide_border=true&border_radius=5&card_width=800?v=1">
-</p>
-
----
-
-<p>&nbsp;<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=Developer-RONNIE&show_icons=true&locale=en&theme=vision-friendly-dark?v=1" alt="Developer-RONNIE" />
-<img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&langs_count=10&show_icons=true&theme=vision-friendly-dark?v=1" />
-</p>
 
 
 
