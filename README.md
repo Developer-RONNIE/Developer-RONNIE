@@ -5,6 +5,19 @@
 <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
 <h3 align="center"> Fullstack developer from India</h3>
 
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE">
+        <img src="https://img.shields.io/github/followers/Developer-RONNIE?label=Follow&style=social" alt="GitHub Follow">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE" alt="Profile Count">
+    <a href="https://x.com/ronnie002_">
+        <img src="https://img.shields.io/twitter/follow/ronnie002_?style=social" alt="Twitter Follow">
+    </a>
+    <a href="https://www.linkedin.com/in/alapan-banerjee/">
+        <img src="https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin" alt="LinkedIn Follow">
+    </a>
+</p>
+
 
 <p align="center">
     <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
@@ -31,18 +44,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 
 
 ### Connect with me:
-<p align="center">
-    <a href="https://github.com/Developer-RONNIE">
-        <img src="https://img.shields.io/github/followers/Developer-RONNIE?label=Follow&style=social" alt="GitHub Follow">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE" alt="Profile Count">
-    <a href="https://x.com/ronnie002_">
-        <img src="https://img.shields.io/twitter/follow/ronnie002_?style=social" alt="Twitter Follow">
-    </a>
-    <a href="https://www.linkedin.com/in/alapan-banerjee/">
-        <img src="https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin" alt="LinkedIn Follow">
-    </a>
-</p>
+
 
 
 
