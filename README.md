@@ -103,6 +103,12 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
+--- 
+
+<div id="trophy" align="left">
+    <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"  align="center" alt="trophy">
+</div>
+
 
 
 
