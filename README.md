@@ -7,9 +7,6 @@
     <a href="https://x.com/ronnie002_">
         <img src="https://img.shields.io/twitter/follow/ronnie002_?style=social" alt="Twitter Follow">
     </a>
-    <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md">
-        <img src="https://img.shields.io/badge/Checkout-My%20tech%20stack-blue" alt="Custom Badge">
-    </a>
     <a href="https://www.linkedin.com/in/alapan-banerjee/">
         <img src="https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin" alt="LinkedIn Follow">
     </a>
