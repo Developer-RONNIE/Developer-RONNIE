@@ -35,7 +35,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 
 --- 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github&align=center)
 
 
 ---  
@@ -45,12 +45,6 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Developer-RONNIE&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Developer-RONNIE&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Developer-RONNIE&theme=github)
-
-
----
-
-
-
 
 ----
 
