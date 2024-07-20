@@ -13,6 +13,7 @@
     </a>
 </p
 
+Throughout my career as a software developer, I have had the opportunity to work with a diverse technologies and tools. These experiences have come from building personal projects, contributing to open-source initiatives, and working professionally within the industry.
 These are the technologies and tools I have utilized while building projects or working professionally in the industry:
 
 <div>
