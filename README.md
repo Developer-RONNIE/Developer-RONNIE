@@ -25,11 +25,7 @@
 
 
 ### About Me: 
-I'm a dedicated fullstack developer with expertise in the MERN and Java full stack ecosystems. I have industry experience as I was an employee in the gaming industry for 2 years before switching to fullstack web development.
-
-Currently, I'm diving deep into the exciting world of serverless architecture, microservices, and cloud-native applications.  I'm also actively engaged in building projects with Next.js, exploring its powerful features for server-side rendering and static site generation. I'm also proficient in related technologies like Vercel, Tailwind CSS, and Prisma/Convex. 
-
-In my spare time, you'll find me contributing to open source projects, honing my coding skills on LeetCode, and keeping up with the latest industry developments.
+I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. I'm mostly prefer Java & Javascript (till now 😊) as Programming Language. I enjoy working with Nodejs, REST API's, Mongodb and much more.
 
 --- 
 
@@ -40,6 +36,10 @@ In my spare time, you'll find me contributing to open source projects, honing my
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ronnie-developer/ronnie-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronnie-developer/ronnie-developer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ronnie_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronnie_2000" height="30" width="40" /></a>
 </p>
+[![Github](https://img.shields.io/github/followers/Developer-RONNIE?label=Follow&style=social)](https://github.com/Developer-RONNIE)
+![Profile Count](https://komarev.com/ghpvc/?username=Developer-RONNIE) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ronnie002_?style=social)](https://x.com/ronnie002_) 
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alapan-banerjee/)
 
 
 ---
