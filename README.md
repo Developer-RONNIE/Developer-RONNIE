@@ -35,8 +35,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 
 --- 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=highcontrast&hide_border=true&border_radius=5)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github)
 
 
 ---  
@@ -65,15 +64,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 
 
 
-<p>&nbsp;<img height="160"  align="left" src="https://github-readme-stats.vercel.app/api?username=Developer-RONNIE&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Developer-RONNIE" />
-<img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-RONNIE&size_weight=0.0005&count_weight=0.3&layout=compact&&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
-</p>
 
---- 
-
-<div id="trophy" align="left">
-    <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"  align="center" alt="trophy">
-</div>
 
 
 
