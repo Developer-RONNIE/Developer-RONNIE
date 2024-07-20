@@ -36,7 +36,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 --- 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=highcontrast&hide_border=true&border_radius=5)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Developer-RONNIE&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000)
 
 
 ---  
