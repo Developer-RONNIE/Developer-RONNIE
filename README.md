@@ -36,12 +36,23 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ronnie-developer/ronnie-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronnie-developer/ronnie-developer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ronnie_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronnie_2000" height="30" width="40" /></a>
 </p>
-<p >
-    [![Github](https://img.shields.io/github/followers/Developer-RONNIE?label=Follow&style=social)](https://github.com/Developer-RONNIE)
-![Profile Count](https://komarev.com/ghpvc/?username=Developer-RONNIE) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ronnie002_?style=social)](https://x.com/ronnie002_) 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alapan-banerjee/)
+
+--- 
+
+
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE">
+        <img src="https://img.shields.io/github/followers/Developer-RONNIE?label=Follow&style=social" alt="GitHub Follow">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE" alt="Profile Count">
+    <a href="https://x.com/ronnie002_">
+        <img src="https://img.shields.io/twitter/follow/ronnie002_?style=social" alt="Twitter Follow">
+    </a>
+    <a href="https://www.linkedin.com/in/alapan-banerjee/">
+        <img src="https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin" alt="LinkedIn Follow">
+    </a>
 </p>
+
 
 
 
