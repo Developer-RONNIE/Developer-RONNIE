@@ -18,13 +18,13 @@
     </a>
 </p>
 
+### About Me: 
+I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. I'm mostly prefer Java & Javascript (till now 😊) as Programming Language. I enjoy working with Nodejs, REST API's, Mongodb and much more.
+
 
 <p align="center">
     <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Top--Unicorn--Startups--India-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a id="header" align="center">
-        <img src="https://komarev.com/ghpvc/?username=Developer-RONNIE&style=for-the-badge&color=orange" alt="profileView"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/400+--product--based--companies-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
@@ -35,18 +35,6 @@
 <div id="trophy" align="left">
     <img style="width: 800px;" src="https://github-profile-trophy.vercel.app/?username=Developer-RONNIE&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"  align="center" alt="trophy">
 </div>
-
-
-### About Me: 
-I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. I'm mostly prefer Java & Javascript (till now 😊) as Programming Language. I enjoy working with Nodejs, REST API's, Mongodb and much more.
-
---- 
-
-
-### Connect with me:
-
-
-
 
 
 ---
