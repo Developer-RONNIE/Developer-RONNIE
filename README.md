@@ -35,7 +35,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 
 --- 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github&align=center)
+
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github" alt="GitHub Profile Summary">
 </div>
