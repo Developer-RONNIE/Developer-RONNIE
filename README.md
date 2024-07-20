@@ -26,11 +26,10 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 
 <p align="center">
     <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge//List--of--Top--Unicorn--Startups--India-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md">
         <img src="https://img.shields.io/badge/Checkout-My%20tech%20stack-blue" alt="Custom Badge">
-    </a>
-    <a href="https://github.com/Developer-RONNIE">
-        <img src="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md" alt="GitHub Follow">
     </a>
     <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/400+--product--based--companies-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
