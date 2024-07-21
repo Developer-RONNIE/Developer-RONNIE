@@ -40,10 +40,14 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 Do star ⭐, fork and share the repo to show your support, it would help others too!
 
 
-<h4 align="center">
-    Connect With Me 
-</h4>
-
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE/complete-leetcode-solutions"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-orange?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--DSA--Java-orange?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    
+</p>
 <p align="center">
     <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/List--of--Top--Unicorn--Startups--India-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
