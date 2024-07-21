@@ -1,16 +1,9 @@
 <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
 
 <p align="center">
-    <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/List--of--Top--Unicorn--Startups--India-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
-    <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/400+--product--based--companies-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    
 </p>
 
 
@@ -46,6 +39,7 @@ Do star ⭐, fork and share the repo to show your support, it would help others 
     </a>
     <a href="https://github.com/Developer-RONNIE/complete-leetcode-solutions"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
     <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
