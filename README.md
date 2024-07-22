@@ -37,11 +37,11 @@
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. I'm mostly prefer Java & Javascript (till now 😊) as Programming Language. I enjoy working with Nodejs, REST API's, Mongodb and much more.
 
 <p align="center">
-    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--DSA--Java-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
     <a href="https://github.com/Developer-RONNIE/complete-leetcode-solutions"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--DSA--Java-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
