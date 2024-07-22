@@ -41,7 +41,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
         <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--DSA--Java-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/Complete--DSA--Java-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
