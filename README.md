@@ -27,16 +27,11 @@
     </a>
     <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/400+--product--based--companies-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    
+    </a>  
 </p>
 
 
-
-
-
-<h3 align="center"> About Me : </h3> 
-<p>
+<p align="center">
   I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. I'm mostly prefer Java & Javascript (till now 😊) as Programming Language. I enjoy working with Nodejs, REST API's, Mongodb and much more.  
 </p>
 
