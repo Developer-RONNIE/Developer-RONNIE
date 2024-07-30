@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/List--of--Top--Unicorn--Startups--India-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/My--Tech--Stack-%234682B4?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/400+--product--based--companies-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
