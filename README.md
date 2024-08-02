@@ -72,7 +72,7 @@
 
 
 <p align="center">
-  <img  src="https://streak-stats.demolab.com?user=EjdemJ&theme=dracula&hide_border=true&border_radius=5&card_width=1200?v=1">
+  <img  src="https://streak-stats.demolab.com?user=Developer-RONNIEJ&theme=highcontrast&hide_border=true&border_radius=5&card_width=800?v=1">
 </p>
 
 
