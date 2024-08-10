@@ -62,7 +62,7 @@ These are the technologies and tools I have utilized while building projects or 
 </div>
 
 
-<h2 align="center"> My Github Stats 👨‍🎓📊 </h2>
+<h1 align="center"> My Github Stats 👨‍🎓📊 </h1>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github" alt="GitHub Profile Summary">
