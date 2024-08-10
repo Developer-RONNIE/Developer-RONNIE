@@ -13,7 +13,7 @@
     </a>
 </p
 
-Throughout my career as a software developer, I have worked with a diverse technologies and tools. These experiences have come from building personal projects, contributing to open-source initiatives, and working professionally within the industry.
+> Throughout my career as a software developer, I have worked with a diverse technologies and tools. These experiences have come from building personal projects, contributing to open-source initiatives, and working professionally within the industry.
 These are the technologies and tools I have utilized while building projects or working professionally in the industry:
 
 <div>
@@ -59,4 +59,22 @@ These are the technologies and tools I have utilized while building projects or 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="55" height="55"/> |
 
 
+</div>
+
+
+<h2 align="center"> My Github Stats </h2>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github" alt="GitHub Profile Summary">
+</div>
+
+
+
+---  
+
+
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Developer-RONNIE&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Developer-RONNIE&theme=github&utcOffset=5.30">
 </div>
