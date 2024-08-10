@@ -83,13 +83,7 @@
 ____ 
 
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-RONNIE&theme=github" alt="GitHub Profile Summary">
-</div>
 
-
-
----  
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Developer-RONNIE&theme=github">
