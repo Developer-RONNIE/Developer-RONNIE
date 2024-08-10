@@ -19,15 +19,9 @@
 </a>
 
 <p align="center">
-    <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Top--Unicorn--Startups--India-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/400+--product--based--companies-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>  
+        <img src="https://img.shields.io/badge/Checkout--My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a> 
 </p>
 
 
@@ -68,6 +62,21 @@
 - Project 2: Streamhub
 - Project 3: Care Plus
 - Project 4: Cypress
+
+
+### 🔗 Useful Repositories
+
+> Here are some additional repositories that provide valuable resources, curated to support your job search and career development
+
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Top--Unicorn--Startups--India-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/400+--product--based--companies-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>  
+</p>
+
 
 
 
