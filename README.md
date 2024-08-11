@@ -19,8 +19,9 @@
 </a>
 
 <p align="center">
+    Checkout : <br>
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md](https://github.com/Developer-RONNIE/portfolio"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Checkout--My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a> 
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/My--Portfolio-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
