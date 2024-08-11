@@ -18,7 +18,7 @@
     <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1080px; height: 180px;">
 </a>
 
-<h6 align="center">CHECKOUT: </h6><br>
+<h6 align="center">CHECKOUT: </h6>
 
 <p align="center">
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md](https://github.com/Developer-RONNIE/portfolio"  align="left" alt="Github" title="github">
