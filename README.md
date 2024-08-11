@@ -44,7 +44,7 @@
 
 > Explore the projects I've developed, showcasing my skills and expertise. Each project demonstrates practical applications and innovative solutions in various domains.
 
-- Project 1: Live Docs 
+- Project 1: [Live Docs](https://github.com/Developer-RONNIE/live_docs) 
 - Project 2: Streamhub
 - Project 3: Care Plus
 - Project 4: Cypress
