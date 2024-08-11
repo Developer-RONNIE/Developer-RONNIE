@@ -18,8 +18,9 @@
     <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1080px; height: 180px;">
 </a>
 
+<h3 align="center">CHECKOUT: </h3><br>
+
 <p align="center">
-    <h3>CHECKOUT: </h3><br>
     <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md](https://github.com/Developer-RONNIE/portfolio"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a> 
