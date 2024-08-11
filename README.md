@@ -67,6 +67,8 @@ ____
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Developer-RONNIE&theme=github">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Developer-RONNIE&theme=github">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-RONNIE&show_icons=true&locale=en" alt="stats" />
+
 </div>
 
 ----
