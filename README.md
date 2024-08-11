@@ -46,7 +46,7 @@
 
 - Project 1: [Live Docs](https://github.com/Developer-RONNIE/live_docs) 
 - Project 2: [Streamhub](https://github.com/Developer-RONNIE/stream-hub)
-- Project 3: Care Plus
+- Project 3: [CarePlus](https://github.com/Developer-RONNIE/careplus)
 - Project 4: Cypress
 
 
