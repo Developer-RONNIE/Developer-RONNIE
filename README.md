@@ -48,6 +48,7 @@
 - Project 2: [Streamhub](https://github.com/Developer-RONNIE/stream-hub)
 - Project 3: [CarePlus](https://github.com/Developer-RONNIE/careplus)
 - Project 4: [Cypress](https://github.com/Developer-RONNIE/cypress)
+- Project 5: [Easy-Scrap](https://github.com/Developer-RONNIE/google-maps-easy-scrape) A google maps Data scrapper Extension
 
 
 
