@@ -44,11 +44,11 @@
 
 > Explore the projects I've developed, showcasing my skills and expertise. Each project demonstrates practical applications and innovative solutions in various domains.
 
-- Project 1: [Live Docs](https://github.com/Developer-RONNIE/live_docs) 
-- Project 2: [Streamhub](https://github.com/Developer-RONNIE/stream-hub)
-- Project 3: [CarePlus](https://github.com/Developer-RONNIE/careplus)
-- Project 4: [Cypress](https://github.com/Developer-RONNIE/cypress)
-- Project 5: [Easy-Scrap](https://github.com/Developer-RONNIE/google-maps-easy-scrape) A google maps Data scrapper Extension
+- Project 1: [Live Docs](https://github.com/Developer-RONNIE/live_docs) Collaborative Document Platform
+- Project 2: [Streamhub](https://github.com/Developer-RONNIE/stream-hub) Video streaming & watching Platform
+- Project 3: [CarePlus](https://github.com/Developer-RONNIE/careplus) Healtcare App
+- Project 4: [Cypress](https://github.com/Developer-RONNIE/cypress) Notion Clone
+- Project 5: [Easy-Scrap](https://github.com/Developer-RONNIE/google-maps-easy-scrape) google maps Data scrapper Extension
 
 
 
