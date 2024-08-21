@@ -30,10 +30,6 @@
 </p>
 
 
-<p align="center">
-  I'm a Fullstack Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. I'm mostly prefer Java & Javascript (till now 😊) as Programming Language. I enjoy working with Nodejs, REST API's, Next.js and much more.  
-</p>
-
 <div align="center">
   <!-- 동적 뱃지 -->
   <div style="display: flex; justify-content: center; align-items: flex-end;">
