@@ -65,8 +65,8 @@
 
 > Here are some additional repositories that provide valuable resources, curated to support your job search and career development
 
-1. Find Comapnies List
-2. Find Comapnies list for India 
+1. [Find Comapnies List](https://github.com/Developer-RONNIE/BeyondFAANGM)
+2. [Find Comapnies list for India](https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India)
 
 
 
