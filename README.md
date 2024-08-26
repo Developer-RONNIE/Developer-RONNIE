@@ -46,17 +46,22 @@
 
 ----
 
-# 📁 Important Repositories
+# 📚 Tutorials & Documentation
 
-### 🛠️ Projects I've Built
+> Dive into the resources I’ve created for the next-generation developers. This section includes comprehensive tutorials and detailed documentation to help you master the latest technologies and best practices. Whether you're a beginner or looking to sharpen your skills, you'll find valuable insights and guidance to enhance your development journey.
 
-> Explore the projects I've developed, showcasing my skills and expertise. Each project demonstrates practical applications and innovative solutions in various domains.
-
-- Project 1: [Live Docs](https://github.com/Developer-RONNIE/live_docs) Collaborative Document Platform
-- Project 2: [Streamhub](https://github.com/Developer-RONNIE/stream-hub) Video streaming & watching Platform
-- Project 3: [CarePlus](https://github.com/Developer-RONNIE/careplus) Healtcare App
-- Project 4: [Cypress](https://github.com/Developer-RONNIE/cypress) Notion Clone
-- Project 5: [Easy-Scrap](https://github.com/Developer-RONNIE/google-maps-easy-scrape) google maps Data scrapper Extension
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE/complete-leetcode-solutions"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--DSA--Java-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    
+</p>
 
 
 
@@ -90,22 +95,7 @@ ____
 
 ---
 
-# 📚 Tutorials & Documentation
 
-> Dive into the resources I’ve created for the next-generation developers. This section includes comprehensive tutorials and detailed documentation to help you master the latest technologies and best practices. Whether you're a beginner or looking to sharpen your skills, you'll find valuable insights and guidance to enhance your development journey.
-
-<p align="center">
-    <a href="https://github.com/Developer-RONNIE/complete-leetcode-solutions"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--DSA--Java-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    
-</p>
 
 
 
