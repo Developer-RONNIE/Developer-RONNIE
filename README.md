@@ -4,22 +4,6 @@
     <img src="https://shorturl.at/M3s0Z" alt="MasterHead"  style="width: 1080px; height: 180px;">
 </a>
 
-
-<div align="center">
-  <!-- 동적 뱃지 -->
-  <div style="display: flex; justify-content: center; align-items: flex-end;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-</div>
-
 ----
 
 # 📚 Tutorials & Documentation
@@ -40,7 +24,6 @@
 </p>
 
 
-
 ### 🔗 Some Other Useful Repositories
 
 > Here are some additional repositories that provide valuable resources, curated to support your job search and career development
@@ -48,7 +31,20 @@
 1. [Find Comapnies List](https://github.com/Developer-RONNIE/BeyondFAANGM)
 2. [Find Comapnies list for India](https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India)
 
-
+<div align="center">
+  <!-- 동적 뱃지 -->
+  <div style="display: flex; justify-content: center; align-items: flex-end;">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  </div>
+</div>
 
 ____ 
 
