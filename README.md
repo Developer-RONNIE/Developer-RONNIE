@@ -28,8 +28,27 @@
 
 > Here are some additional repositories that provide valuable resources, curated to support your job search and career development
 
-1. [Find Comapnies List](https://github.com/Developer-RONNIE/BeyondFAANGM)
-2. [Find Comapnies list for India](https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India)
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Find--Comapanies--List-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Find--Comapanies--India-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+____ 
+
+<h6 align="center">CHECKOUT: </h6>
+
+<p align="center">
+    <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a> 
+    <a href="https://github.com/Developer-RONNIE/portfolio"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/My--Portfolio-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a> 
+</p>
 
 <div align="center">
   <!-- 동적 뱃지 -->
@@ -45,19 +64,6 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   </div>
 </div>
-
-____ 
-
-<h6 align="center">CHECKOUT: </h6>
-
-<p align="center">
-    <a href="https://github.com/Developer-RONNIE/Developer-RONNIE/blob/main/MyTechStack.md"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/My--Tech--Stack-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a> 
-    <a href="https://github.com/Developer-RONNIE/portfolio"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/My--Portfolio-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a> 
-</p>
 
 
 ----
