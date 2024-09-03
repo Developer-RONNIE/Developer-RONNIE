@@ -76,12 +76,6 @@ ____
 
 </div>
 
-----
-
-
-<p align="center">
-  <img  src="https://streak-stats.demolab.com?user=Developer-RONNIE&theme=highcontrast&hide_border=true&border_radius=5&card_width=800?v=1">
-</p>
 
 ---
 
