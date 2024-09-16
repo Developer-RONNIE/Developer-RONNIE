@@ -65,7 +65,7 @@ These are the technologies and tools I have utilized while building projects or 
 
 </div>
 
----
+
 
 
 <h1 align="center"> My Github Stats 👨‍🎓📊 </h1>
