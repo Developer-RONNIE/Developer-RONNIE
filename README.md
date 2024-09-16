@@ -15,6 +15,13 @@
 
 <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Developer-RONNIE&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Developer-RONNIE&theme=github">
+    
+
+</div>
+
 
 <h6 align="center">CHECKOUT: </h6>
 
@@ -29,10 +36,7 @@
 
 
 
-
-----
-
-# 📚 Tutorials & Documentation
+### 📚 Tutorials & Documentation
 
 > Dive into the resources I’ve created for the next-generation developers. This section includes comprehensive tutorials and detailed documentation to help you master the latest technologies and best practices. Whether you're a beginner or looking to sharpen your skills, you'll find valuable insights and guidance to enhance your development journey.
 
@@ -67,17 +71,12 @@
 
 
 
-----
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Developer-RONNIE&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Developer-RONNIE&theme=github">
-    
-
-</div>
 
 
----
+
+
+
+
 
 
 
