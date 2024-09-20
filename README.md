@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--DSA--Java-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/Complete--DSA--C++-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
