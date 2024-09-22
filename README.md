@@ -9,7 +9,6 @@
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   </div>
 </div>
 
@@ -41,7 +40,7 @@
     <a href="https://github.com/Developer-RONNIE/complete-leetcode-solutions"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--Leetcode--Solutions-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
-    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java"  align="left" alt="Github" title="github">
+    <a href="https://github.com/Developer-RONNIE/DSA_C_Plus_Plus"  align="left" alt="Github" title="github">
         <img src="https://img.shields.io/badge/Complete--DSA--C++-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
