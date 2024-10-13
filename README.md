@@ -48,6 +48,18 @@
     </a>
     
 </p>
+<p align="center">
+    <a href=""  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--React--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href=""  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--Backend--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href=""  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--MySQL--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    
+</p>
 
 
 ### 🔗 Some Other Useful Repositories
