@@ -37,29 +37,17 @@
 > Dive into the resources I’ve created for the next-generation developers. This section includes comprehensive tutorials and detailed documentation to help you master the latest technologies and best practices. Whether you're a beginner or looking to sharpen your skills, you'll find valuable insights and guidance to enhance your development journey.
 
 <p align="center">
-    <a href="https://github.com/Developer-RONNIE/html-css"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--HTML--CSS-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    <a href="https://github.com/Developer-RONNIE/zero-to-fullstack-dev"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Zero--To--Fullstack--Development-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href=""  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--React--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/Comeplete--DSA-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href=""  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/System--Designs-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     
-</p>
-<p align="center">
-    <a href=""  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--Tailwind--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href=""  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--Backend--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href=""  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Complete--Next.js--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    
-</p>
+
 
 
 ### 🔗 Some Other Useful Repositories
