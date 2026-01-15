@@ -23,7 +23,7 @@
     </a> 
 </p>
 
-<h1 align="center">📚 Tutorials & Documentation</h1>
+<h2 align="center">📚 Tutorials & Documentation</h2>
 
 <blockquote>
   Whether you're a beginner or looking to sharpen your skills, you'll find valuable insights and guidance to enhance your development journey.
