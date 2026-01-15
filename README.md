@@ -12,6 +12,8 @@
   </div>
 </div>
 
+<h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
+
 <h6 align="center">CHECKOUT: </h6>
 
 <p align="center">
@@ -22,9 +24,6 @@
         <img src="https://img.shields.io/badge/My--Portfolio-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a> 
 </p>
-
-<h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
-
 
 <h3 align="center">📚 Tutorials & Documentation</h3>
 
