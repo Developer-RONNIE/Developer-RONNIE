@@ -50,18 +50,6 @@
 
 
 
-### 🔗 Some Other Useful Repositories
-
-> Here are some additional repositories that provide valuable resources, curated to support your job search and career development
-
-<p align="center">
-    <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Find--Comapanies--List-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-    <a href="https://github.com/Developer-RONNIE/List-of-Top-Unicorn-Startups-India"  align="left" alt="Github" title="github">
-        <img src="https://img.shields.io/badge/Find--Comapanies--India-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-</p>
 
 
 
