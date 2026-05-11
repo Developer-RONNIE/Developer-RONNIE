@@ -1,6 +1,4 @@
-<div align="center">
-  
-  <p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65"/>
@@ -9,7 +7,6 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
-</p>
 </div>
 
 <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
