@@ -1,14 +1,14 @@
 <div align="center">
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: nowrap;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="64" />
+  <div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
 </div>
 </div>
 
