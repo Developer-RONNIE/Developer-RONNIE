@@ -1,7 +1,15 @@
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
-</p>ttps://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60"/></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/></td>
+  </tr>
+</table>
 
 <h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alapan </h1>
 <h6 align="center">CHECKOUT: </h6>
