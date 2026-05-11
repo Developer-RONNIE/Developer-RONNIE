@@ -1,6 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65"/>
